@@ -1,0 +1,738 @@
+{
+    "T1": {
+        "song_name": "The 1",
+        "mentions_in_year": 1
+    },
+    "1SF3SB": {
+        "song_name": "1 Step Forward, 3 Steps Back",
+        "mentions_in_year": 0
+    },
+    "TA": {
+        "song_name": "The Archer",
+        "mentions_in_year": 43
+    },
+    "AotGYLB": {
+        "song_name": "All of the Girls You Loved Before",
+        "mentions_in_year": 18
+    },
+    "ATW": {
+        "song_name": "All Too Well",
+        "mentions_in_year": 100
+    },
+    "AYHtDWS": {
+        "song_name": "All You Had to Do Was Stay",
+        "mentions_in_year": 27
+    },
+    "AG": {
+        "song_name": "American Girl",
+        "mentions_in_year": 100
+    },
+    "BtD": {
+        "song_name": "Back to December",
+        "mentions_in_year": 13
+    },
+    "BB": {
+        "song_name": "Baby Blue",
+        "mentions_in_year": 11
+    },
+    "BE": {
+        "song_name": "Beautiful Eyes",
+        "mentions_in_year": 100
+    },
+    "BG": {
+        "song_name": "Beautiful Ghosts",
+        "mentions_in_year": 10
+    },
+    "BA": {
+        "song_name": "Begin Again",
+        "mentions_in_year": 15
+    },
+    "BWMB": {
+        "song_name": "Bein' With My Baby",
+        "mentions_in_year": 0
+    },
+    "TBD": {
+        "song_name": "The Black Dog",
+        "mentions_in_year": 6
+    },
+    "BDoYL": {
+        "song_name": "Best Days of Your Life",
+        "mentions_in_year": 0
+    },
+    "BDE": {
+        "song_name": "Bette Davis Eyes",
+        "mentions_in_year": 0
+    },
+    "BM": {
+        "song_name": "Bother Me",
+        "mentions_in_year": 5
+    },
+    "BtR": {
+        "song_name": "Better than Revenge",
+        "mentions_in_year": 28
+    },
+    "BTtWS": {
+        "song_name": "Bigger Than the Whole Sky",
+        "mentions_in_year": 8
+    },
+    "BS": {
+        "song_name": "Blank Space",
+        "mentions_in_year": 12
+    },
+    "TB": {
+        "song_name": "Too Beautiful",
+        "mentions_in_year": 2
+    },
+    "BoU": {
+        "song_name": "Both of Us",
+        "mentions_in_year": 2
+    },
+    "BDILH": {
+        "song_name": "But Daddy I Love Him",
+        "mentions_in_year": 23
+    },
+    "BBB": {
+        "song_name": "Bye Bye Baby",
+        "mentions_in_year": 0
+    },
+    "CIWYW": {
+        "song_name": "Call It What You Want",
+        "mentions_in_year": 35
+    },
+    "CC": {
+        "song_name": "Castles Crumbling",
+        "mentions_in_year": 9
+    },
+    "CP": {
+        "song_name": "Champagne Problems",
+        "mentions_in_year": 4
+    },
+    "CoSoSoM": {
+        "song_name": "Chloe or Sam or Sophia or Marcus",
+        "mentions_in_year": 30
+    },
+    "CMBSM": {
+        "song_name": "Christmas Must Be Something More",
+        "mentions_in_year": 0
+    },
+    "CTF": {
+        "song_name": "Christmas Tree Farm",
+        "mentions_in_year": 4
+    },
+    "CWYWM": {
+        "song_name": "Christmases When You Were Mine",
+        "mentions_in_year": 0
+    },
+    "CB": {
+        "song_name": "Clara Bow",
+        "mentions_in_year": 3
+    },
+    "CaY": {
+        "song_name": "Cold as You",
+        "mentions_in_year": 8
+    },
+    "CBBH": {
+        "song_name": "Come Back... Be Here",
+        "mentions_in_year": 2
+    },
+    "CiwtR": {
+        "song_name": "Come in with the Rain",
+        "mentions_in_year": 5
+    },
+    "CI": {
+        "song_name": "Coney Island",
+        "mentions_in_year": 18
+    },
+    "CS": {
+        "song_name": "Cruel Summer",
+        "mentions_in_year": 12
+    },
+    "ClM": {
+        "song_name": "Cowboy like Me",
+        "mentions_in_year": 11
+    },
+    "DwOHT": {
+        "song_name": "Dancing with Our Hands Tied",
+        "mentions_in_year": 32
+    },
+    "DJ": {
+        "song_name": "Dear John",
+        "mentions_in_year": 28
+    },
+    "DR": {
+        "song_name": "Dear Reader",
+        "mentions_in_year": 56
+    },
+    "DbaTC": {
+        "song_name": "Death by a Thousand Cuts",
+        "mentions_in_year": 90
+    },
+    "DV": {
+        "song_name": "Deja Vu",
+        "mentions_in_year": 3
+    },
+    "DBM": {
+        "song_name": "Don't Blame Me",
+        "mentions_in_year": 11
+    },
+    "DY": {
+        "song_name": "Don't You",
+        "mentions_in_year": 100
+    },
+    "DB": {
+        "song_name": "Down Bad",
+        "mentions_in_year": 5
+    },
+    "ET": {
+        "song_name": "Electric Touch",
+        "mentions_in_year": 56
+    },
+    "EG": {
+        "song_name": "End Game",
+        "mentions_in_year": 27
+    },
+    "EHC": {
+        "song_name": "Everything Has Changed",
+        "mentions_in_year": 4
+    },
+    "EO": {
+        "song_name": "Eyes Open",
+        "mentions_in_year": 6
+    },
+    "FG": {
+        "song_name": "False God",
+        "mentions_in_year": 5
+    },
+    "FO": {
+        "song_name": "Foolish One",
+        "mentions_in_year": 14
+    },
+    "FA": {
+        "song_name": "Forever & Always",
+        "mentions_in_year": 14
+    },
+    "FW": {
+        "song_name": "Forever Winter",
+        "mentions_in_year": 2
+    },
+    "FOtS": {
+        "song_name": "Fresh Out the Slammer",
+        "mentions_in_year": 9
+    },
+    "GC": {
+        "song_name": "Getaway Car",
+        "mentions_in_year": 18
+    },
+    "GaH": {
+        "song_name": "Girl at Home",
+        "mentions_in_year": 12
+    },
+    "GR": {
+        "song_name": "Gold Rush",
+        "mentions_in_year": 9
+    },
+    "TGW": {
+        "song_name": "The Great War",
+        "mentions_in_year": 6
+    },
+    "GaS": {
+        "song_name": "Guilty as Sin?",
+        "mentions_in_year": 15
+    },
+    "HoMH": {
+        "song_name": "Half of My Heart",
+        "mentions_in_year": 0
+    },
+    "HS": {
+        "song_name": "Hey Stephen",
+        "mentions_in_year": 8
+    },
+    "HI": {
+        "song_name": "High Infidelity",
+        "mentions_in_year": 100
+    },
+    "HDC": {
+        "song_name": "Highway Don't Care",
+        "mentions_in_year": 0
+    },
+    "HD": {
+        "song_name": "Hits Different",
+        "mentions_in_year": 6
+    },
+    "HO": {
+        "song_name": "Hold On",
+        "mentions_in_year": 20
+    },
+    "HG": {
+        "song_name": "Holy Ground",
+        "mentions_in_year": 3
+    },
+    "HDIE": {
+        "song_name": "How Did It End?",
+        "mentions_in_year": 6
+    },
+    "HYGtG": {
+        "song_name": "How You Get the Girl",
+        "mentions_in_year": 19
+    },
+    "IAD": {
+        "song_name": "I Almost Do",
+        "mentions_in_year": 1
+    },
+    "IBYTAM": {
+        "song_name": "I Bet You Think About Me",
+        "mentions_in_year": 29
+    },
+    "ICDIwaBH": {
+        "song_name": "I Can Do It with a Broken Heart",
+        "mentions_in_year": 42
+    },
+    "ICSY": {
+        "song_name": "I Can See You",
+        "mentions_in_year": 13
+    },
+    "IDSB": {
+        "song_name": "I Did Something Bad",
+        "mentions_in_year": 36
+    },
+    "IDWLF": {
+        "song_name": "I Don't Wanna Live Forever",
+        "mentions_in_year": 12
+    },
+    "IFTYE": {
+        "song_name": "I Forgot That You Existed",
+        "mentions_in_year": 21
+    },
+    "IHIH": {
+        "song_name": "I Hate It Here",
+        "mentions_in_year": 4
+    },
+    "IH": {
+        "song_name": "I Heart\u00a0?",
+        "mentions_in_year": 4
+    },
+    "ILiPW": {
+        "song_name": "I Look in People's Windows",
+        "mentions_in_year": 5
+    },
+    "IKYWT": {
+        "song_name": "I Knew You Were Trouble",
+        "mentions_in_year": 52
+    },
+    "IKP": {
+        "song_name": "I Know Places",
+        "mentions_in_year": 7
+    },
+    "ITHK": {
+        "song_name": "I Think He Knows",
+        "mentions_in_year": 5
+    },
+    "IWYB": {
+        "song_name": "I Want You Back",
+        "mentions_in_year": 0
+    },
+    "IWYW": {
+        "song_name": "I Wish You Would",
+        "mentions_in_year": 8
+    },
+    "ITWaM": {
+        "song_name": "If This Was a Movie",
+        "mentions_in_year": 18
+    },
+    "IA": {
+        "song_name": "Illicit Affairs",
+        "mentions_in_year": 11
+    },
+    "IOMWIwY": {
+        "song_name": "I'm Only Me When I'm with You",
+        "mentions_in_year": 8
+    },
+    "IS": {
+        "song_name": "Invisible String",
+        "mentions_in_year": 100
+    },
+    "IION": {
+        "song_name": "Is It Over Now?",
+        "mentions_in_year": 17
+    },
+    "INtHaF": {
+        "song_name": "It's Nice to Have a Friend",
+        "mentions_in_year": 21
+    },
+    "ITtG": {
+        "song_name": "It's Time to Go",
+        "mentions_in_year": 5
+    },
+    "JTF": {
+        "song_name": "Jump Then Fall",
+        "mentions_in_year": 1
+    },
+    "KoMH": {
+        "song_name": "King of My Heart",
+        "mentions_in_year": 22
+    },
+    "TL": {
+        "song_name": "That's Life",
+        "mentions_in_year": 49
+    },
+    "LC": {
+        "song_name": "Last Christmas",
+        "mentions_in_year": 3
+    },
+    "TLGAD": {
+        "song_name": "The Last Great American Dynasty",
+        "mentions_in_year": 55
+    },
+    "LK": {
+        "song_name": "Last Kiss",
+        "mentions_in_year": 8
+    },
+    "TLT": {
+        "song_name": "The Last Time",
+        "mentions_in_year": 1
+    },
+    "LH": {
+        "song_name": "Lavender Haze",
+        "mentions_in_year": 6
+    },
+    "LB": {
+        "song_name": "London Boy",
+        "mentions_in_year": 7
+    },
+    "LL": {
+        "song_name": "Long Live",
+        "mentions_in_year": 100
+    },
+    "LSS": {
+        "song_name": "Long Story Short",
+        "mentions_in_year": 3
+    },
+    "LWYMMD": {
+        "song_name": "Look What You Made Me Do",
+        "mentions_in_year": 100
+    },
+    "LS": {
+        "song_name": "Love Story",
+        "mentions_in_year": 10
+    },
+    "TLO": {
+        "song_name": "The Lucky One",
+        "mentions_in_year": 2
+    },
+    "MW": {
+        "song_name": "Mad Woman",
+        "mentions_in_year": 1
+    },
+    "TM": {
+        "song_name": "Tell Me",
+        "mentions_in_year": 20
+    },
+    "MiaB": {
+        "song_name": "Message in a Bottle",
+        "mentions_in_year": 7
+    },
+    "MR": {
+        "song_name": "Midnight Rain",
+        "mentions_in_year": 100
+    },
+    "MAtHP": {
+        "song_name": "Miss Americana & the Heartbreak Prince",
+        "mentions_in_year": 1
+    },
+    "TMIK": {
+        "song_name": "The Moment I Knew",
+        "mentions_in_year": 4
+    },
+    "MPF": {
+        "song_name": "Mr. Perfectly Fine",
+        "mentions_in_year": 1
+    },
+    "MBOBHFT": {
+        "song_name": "My Boy Only Breaks His Favorite Toys",
+        "mentions_in_year": 15
+    },
+    "MTR": {
+        "song_name": "My Tears Ricochet",
+        "mentions_in_year": 24
+    },
+    "NGU": {
+        "song_name": "Never Grow Up",
+        "mentions_in_year": 2
+    },
+    "NR": {
+        "song_name": "New Romantics",
+        "mentions_in_year": 13
+    },
+    "NYD": {
+        "song_name": "New Year's Day",
+        "mentions_in_year": 20
+    },
+    "NBNC": {
+        "song_name": "No Body, No Crime",
+        "mentions_in_year": 42
+    },
+    "NN": {
+        "song_name": "Nothing New",
+        "mentions_in_year": 5
+    },
+    "NTWDT": {
+        "song_name": "Now That We Don't Talk",
+        "mentions_in_year": 10
+    },
+    "OtY": {
+        "song_name": "Only the Young",
+        "mentions_in_year": 0
+    },
+    "TOSotD": {
+        "song_name": "The Other Side of the Door",
+        "mentions_in_year": 17
+    },
+    "OS": {
+        "song_name": "Our Song",
+        "mentions_in_year": 13
+    },
+    "OotW": {
+        "song_name": "Out of the Woods",
+        "mentions_in_year": 70
+    },
+    "TO": {
+        "song_name": "The Outside",
+        "mentions_in_year": 100
+    },
+    "PR": {
+        "song_name": "Paper Rings",
+        "mentions_in_year": 31
+    },
+    "APGH": {
+        "song_name": "A Perfectly Good Heart",
+        "mentions_in_year": 4
+    },
+    "PtB": {
+        "song_name": "Picture to Burn",
+        "mentions_in_year": 5
+    },
+    "APiTW": {
+        "song_name": "A Place in This World",
+        "mentions_in_year": 4
+    },
+    "TP": {
+        "song_name": "The Prophecy",
+        "mentions_in_year": 29
+    },
+    "RfI": {
+        "song_name": "...Ready for It?",
+        "mentions_in_year": 6
+    },
+    "RWYLM": {
+        "song_name": "Right Where You Left Me",
+        "mentions_in_year": 63
+    },
+    "SBT": {
+        "song_name": "Sad Beautiful Tragic",
+        "mentions_in_year": 7
+    },
+    "SS": {
+        "song_name": "Safe & Sound",
+        "mentions_in_year": 20
+    },
+    "SB": {
+        "song_name": "Stupid Boy",
+        "mentions_in_year": 9
+    },
+    "SDG": {
+        "song_name": "Say Don't Go",
+        "mentions_in_year": 2
+    },
+    "SIO": {
+        "song_name": "Shake It Off",
+        "mentions_in_year": 14
+    },
+    "SSN": {
+        "song_name": "Should've Said No",
+        "mentions_in_year": 2
+    },
+    "SN": {
+        "song_name": "Sweet Nothing",
+        "mentions_in_year": 68
+    },
+    "TSMWEL": {
+        "song_name": "The Smallest Man Who Ever Lived",
+        "mentions_in_year": 15
+    },
+    "SotB": {
+        "song_name": "Snow on the Beach",
+        "mentions_in_year": 22
+    },
+    "SHS": {
+        "song_name": "So High School",
+        "mentions_in_year": 2
+    },
+    "SIG": {
+        "song_name": "So It Goes...",
+        "mentions_in_year": 7
+    },
+    "SLL": {
+        "song_name": "So Long, London",
+        "mentions_in_year": 4
+    },
+    "SYGB": {
+        "song_name": "Soon You'll Get Better",
+        "mentions_in_year": 19
+    },
+    "SF": {
+        "song_name": "Sparks Fly",
+        "mentions_in_year": 17
+    },
+    "SoG": {
+        "song_name": "State of Grace",
+        "mentions_in_year": 100
+    },
+    "SSS": {
+        "song_name": "Stay Stay Stay",
+        "mentions_in_year": 5
+    },
+    "TSoU": {
+        "song_name": "The Story of Us",
+        "mentions_in_year": 8
+    },
+    "SL": {
+        "song_name": "Suburban Legends",
+        "mentions_in_year": 15
+    },
+    "StF": {
+        "song_name": "Sweeter than Fiction",
+        "mentions_in_year": 6
+    },
+    "ToMG": {
+        "song_name": "Teardrops on My Guitar",
+        "mentions_in_year": 19
+    },
+    "TMW": {
+        "song_name": "Tell Me Why",
+        "mentions_in_year": 2
+    },
+    "TYA": {
+        "song_name": "Thank You Aimee",
+        "mentions_in_year": 3
+    },
+    "TW": {
+        "song_name": "That's When",
+        "mentions_in_year": 8
+    },
+    "TIMT": {
+        "song_name": "This Is Me Trying",
+        "mentions_in_year": 7
+    },
+    "TIWYCF": {
+        "song_name": "This Is What You Came For",
+        "mentions_in_year": 6
+    },
+    "TIWWCHNT": {
+        "song_name": "This Is Why We Can't Have Nice Things",
+        "mentions_in_year": 28
+    },
+    "TTwaS": {
+        "song_name": "Tied Together with a Smile",
+        "mentions_in_year": 4
+    },
+    "TtDS": {
+        "song_name": "'Tis the Damn Season",
+        "mentions_in_year": 6
+    },
+    "TWaF": {
+        "song_name": "Today Was a Fairytale",
+        "mentions_in_year": 4
+    },
+    "TI": {
+        "song_name": "Tolerate It",
+        "mentions_in_year": 100
+    },
+    "TTPD": {
+        "song_name": "The Tortured Poets Department",
+        "mentions_in_year": 100
+    },
+    "TIBTO": {
+        "song_name": "Two Is Better Than One",
+        "mentions_in_year": 0
+    },
+    "TVFN": {
+        "song_name": "The Very First Night",
+        "mentions_in_year": 5
+    },
+    "VS": {
+        "song_name": "Vigilante Shit",
+        "mentions_in_year": 100
+    },
+    "TWILY": {
+        "song_name": "The Way I Loved You",
+        "mentions_in_year": 13
+    },
+    "WANEGBT": {
+        "song_name": "We Are Never Ever Getting Back Together",
+        "mentions_in_year": 51
+    },
+    "WtNY": {
+        "song_name": "Welcome to New York",
+        "mentions_in_year": 4
+    },
+    "WWH": {
+        "song_name": "We Were Happy",
+        "mentions_in_year": 1
+    },
+    "WEFiL": {
+        "song_name": "When Emma Falls in Love",
+        "mentions_in_year": 15
+    },
+    "WC": {
+        "song_name": "White Christmas",
+        "mentions_in_year": 44
+    },
+    "WH": {
+        "song_name": "White Horse",
+        "mentions_in_year": 9
+    },
+    "WAoLOM": {
+        "song_name": "Who's Afraid of Little Old Me?",
+        "mentions_in_year": 49
+    },
+    "WD": {
+        "song_name": "Welcome Distraction",
+        "mentions_in_year": 8
+    },
+    "WCS": {
+        "song_name": "Would've, Could've, Should've",
+        "mentions_in_year": 32
+    },
+    "YAOM": {
+        "song_name": "You All Over Me",
+        "mentions_in_year": 1
+    },
+    "YAiL": {
+        "song_name": "You Are in Love",
+        "mentions_in_year": 14
+    },
+    "YBwM": {
+        "song_name": "You Belong with Me",
+        "mentions_in_year": 38
+    },
+    "YAFYWBH": {
+        "song_name": "You'll Always Find Your Way Back Home",
+        "mentions_in_year": 0
+    },
+    "YNtCD": {
+        "song_name": "You Need to Calm Down",
+        "mentions_in_year": 63
+    },
+    "YLM": {
+        "song_name": "You're Losing Me",
+        "mentions_in_year": 14
+    },
+    "YNS": {
+        "song_name": "You're Not Sorry",
+        "mentions_in_year": 1
+    },
+    "YoYOK": {
+        "song_name": "You're on Your Own, Kid",
+        "mentions_in_year": 100
+    }
+}
