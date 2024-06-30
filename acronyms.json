@@ -1,0 +1,917 @@
+{
+    "T1": {
+        "song_name": "The 1",
+        "mentions_in_year": 0,
+        "album": "Folklore"
+    },
+    "1SF3SB": {
+        "song_name": "1 Step Forward, 3 Steps Back",
+        "mentions_in_year": 0,
+        "album": "Sour"
+    },
+    "AotGYLB": {
+        "song_name": "All of the Girls You Loved Before",
+        "mentions_in_year": 0,
+        "album": "Non-album song"
+    },
+    "ATW": {
+        "song_name": "All Too Well",
+        "mentions_in_year": 0,
+        "album": "Red  "
+    },
+    "ATW10MV": {
+        "song_name": "All Too Well (10 Minute Version)",
+        "mentions_in_year": 0,
+        "album": "Red "
+    },
+    "AYHtDWS": {
+        "song_name": "All You Had to Do Was Stay",
+        "mentions_in_year": 0,
+        "album": "1989  "
+    },
+    "AG": {
+        "song_name": "American Girl",
+        "mentions_in_year": 0,
+        "album": "Non-album song"
+    },
+    "BtD": {
+        "song_name": "Back to December",
+        "mentions_in_year": 0,
+        "album": "Speak Now  "
+    },
+    "BBsv": {
+        "song_name": "Bad Blood (single version)",
+        "mentions_in_year": 0,
+        "album": "Non-album song[b]"
+    },
+    "BE": {
+        "song_name": "Beautiful Eyes",
+        "mentions_in_year": 0,
+        "album": "Beautiful Eyes"
+    },
+    "BG": {
+        "song_name": "Beautiful Ghosts",
+        "mentions_in_year": 0,
+        "album": "Cats: Highlights from the Motion Picture Soundtrack"
+    },
+    "BA": {
+        "song_name": "Begin Again",
+        "mentions_in_year": 0,
+        "album": "Red  "
+    },
+    "BWMB": {
+        "song_name": "Bein' With My Baby",
+        "mentions_in_year": 0,
+        "album": "Shea"
+    },
+    "BDoYL": {
+        "song_name": "Best Days of Your Life",
+        "mentions_in_year": 0,
+        "album": "Kellie Pickler"
+    },
+    "BDE": {
+        "song_name": "Bette Davis Eyes",
+        "mentions_in_year": 0,
+        "album": "Speak Now World Tour \u2013 Live"
+    },
+    "BtR": {
+        "song_name": "Better than Revenge",
+        "mentions_in_year": 0,
+        "album": "Speak Now  "
+    },
+    "BTtWS": {
+        "song_name": "Bigger Than the Whole Sky",
+        "mentions_in_year": 0,
+        "album": "Midnights (3am Edition)"
+    },
+    "BSL": {
+        "song_name": "Big Star (Live)",
+        "mentions_in_year": 0,
+        "album": "Live in No Shoes Nation"
+    },
+    "BS": {
+        "song_name": "Blank Space",
+        "mentions_in_year": 0,
+        "album": "1989  "
+    },
+    "BoU": {
+        "song_name": "Both of Us",
+        "mentions_in_year": 0,
+        "album": "Strange Clouds"
+    },
+    "BDILH": {
+        "song_name": "But Daddy I Love Him",
+        "mentions_in_year": 0,
+        "album": "The Tortured Poets Department"
+    },
+    "BBB": {
+        "song_name": "Bye Bye Baby",
+        "mentions_in_year": 0,
+        "album": "Fearless "
+    },
+    "CIWYW": {
+        "song_name": "Call It What You Want",
+        "mentions_in_year": 0,
+        "album": "Reputation"
+    },
+    "CC": {
+        "song_name": "Castles Crumbling",
+        "mentions_in_year": 0,
+        "album": "Speak Now "
+    },
+    "CP": {
+        "song_name": "Champagne Problems",
+        "mentions_in_year": 0,
+        "album": "Evermore"
+    },
+    "CoSoSoM": {
+        "song_name": "Chloe or Sam or Sophia or Marcus",
+        "mentions_in_year": 0,
+        "album": "The Tortured Poets Department: The Anthology"
+    },
+    "CMBSM": {
+        "song_name": "Christmas Must Be Something More",
+        "mentions_in_year": 0,
+        "album": "The Taylor Swift Holiday Collection"
+    },
+    "CTF": {
+        "song_name": "Christmas Tree Farm",
+        "mentions_in_year": 0,
+        "album": "Non-album song"
+    },
+    "CWYWM": {
+        "song_name": "Christmases When You Were Mine",
+        "mentions_in_year": 0,
+        "album": "The Taylor Swift Holiday Collection"
+    },
+    "CB": {
+        "song_name": "Clara Bow",
+        "mentions_in_year": 0,
+        "album": "The Tortured Poets Department"
+    },
+    "CaY": {
+        "song_name": "Cold as You",
+        "mentions_in_year": 0,
+        "album": "Taylor Swift"
+    },
+    "CBBH": {
+        "song_name": "Come Back... Be Here",
+        "mentions_in_year": 0,
+        "album": "Red (Deluxe) "
+    },
+    "CiwtR": {
+        "song_name": "Come in with the Rain",
+        "mentions_in_year": 0,
+        "album": "Fearless: Platinum Edition "
+    },
+    "CI": {
+        "song_name": "Coney Island",
+        "mentions_in_year": 0,
+        "album": "Evermore"
+    },
+    "ClM": {
+        "song_name": "Cowboy like Me",
+        "mentions_in_year": 0,
+        "album": "Evermore"
+    },
+    "DwOHT": {
+        "song_name": "Dancing with Our Hands Tied",
+        "mentions_in_year": 0,
+        "album": "Reputation"
+    },
+    "DJ": {
+        "song_name": "Dear John",
+        "mentions_in_year": 0,
+        "album": "Speak Now  "
+    },
+    "DR": {
+        "song_name": "Dear Reader",
+        "mentions_in_year": 0,
+        "album": "Midnights (3am Edition)"
+    },
+    "DbaTC": {
+        "song_name": "Death by a Thousand Cuts",
+        "mentions_in_year": 0,
+        "album": "Lover"
+    },
+    "DV": {
+        "song_name": "Deja Vu",
+        "mentions_in_year": 0,
+        "album": "Sour"
+    },
+    "DBM": {
+        "song_name": "Don't Blame Me",
+        "mentions_in_year": 0,
+        "album": "Reputation"
+    },
+    "DY": {
+        "song_name": "Don't You",
+        "mentions_in_year": 0,
+        "album": "Fearless "
+    },
+    "DB": {
+        "song_name": "Down Bad",
+        "mentions_in_year": 0,
+        "album": "The Tortured Poets Department"
+    },
+    "DoJL": {
+        "song_name": "Drops of Jupiter (Live)",
+        "mentions_in_year": 0,
+        "album": "Speak Now World Tour \u2013 Live"
+    },
+    "ET": {
+        "song_name": "Electric Touch",
+        "mentions_in_year": 0,
+        "album": "Speak Now "
+    },
+    "EG": {
+        "song_name": "End Game",
+        "mentions_in_year": 0,
+        "album": "Reputation"
+    },
+    "EHC": {
+        "song_name": "Everything Has Changed",
+        "mentions_in_year": 0,
+        "album": "Red  "
+    },
+    "EO": {
+        "song_name": "Eyes Open",
+        "mentions_in_year": 0,
+        "album": "The Hunger Games[d]"
+    },
+    "FG": {
+        "song_name": "False God",
+        "mentions_in_year": 0,
+        "album": "Lover"
+    },
+    "FO": {
+        "song_name": "Foolish One",
+        "mentions_in_year": 0,
+        "album": "Speak Now "
+    },
+    "FA": {
+        "song_name": "Forever & Always",
+        "mentions_in_year": 0,
+        "album": "Fearless  "
+    },
+    "FW": {
+        "song_name": "Forever Winter",
+        "mentions_in_year": 0,
+        "album": "Red "
+    },
+    "FOtS": {
+        "song_name": "Fresh Out the Slammer",
+        "mentions_in_year": 0,
+        "album": "The Tortured Poets Department"
+    },
+    "GC": {
+        "song_name": "Getaway Car",
+        "mentions_in_year": 0,
+        "album": "Reputation"
+    },
+    "GaH": {
+        "song_name": "Girl at Home",
+        "mentions_in_year": 0,
+        "album": "Red (Deluxe) "
+    },
+    "GR": {
+        "song_name": "Gold Rush",
+        "mentions_in_year": 0,
+        "album": "Evermore"
+    },
+    "TGW": {
+        "song_name": "The Great War",
+        "mentions_in_year": 0,
+        "album": "Midnights (3am Edition)"
+    },
+    "GaS": {
+        "song_name": "Guilty as Sin?",
+        "mentions_in_year": 0,
+        "album": "The Tortured Poets Department"
+    },
+    "HoMH": {
+        "song_name": "Half of My Heart",
+        "mentions_in_year": 0,
+        "album": "Battle Studies"
+    },
+    "HS": {
+        "song_name": "Hey Stephen",
+        "mentions_in_year": 0,
+        "album": "Fearless  "
+    },
+    "HI": {
+        "song_name": "High Infidelity",
+        "mentions_in_year": 0,
+        "album": "Midnights (3am Edition)"
+    },
+    "HDC": {
+        "song_name": "Highway Don't Care",
+        "mentions_in_year": 0,
+        "album": "Two Lanes of Freedom"
+    },
+    "HD": {
+        "song_name": "Hits Different",
+        "mentions_in_year": 0,
+        "album": "Midnights (Deluxe)"
+    },
+    "HO": {
+        "song_name": "Hold On",
+        "mentions_in_year": 0,
+        "album": "Rhapsody Originals"
+    },
+    "HG": {
+        "song_name": "Holy Ground",
+        "mentions_in_year": 0,
+        "album": "Red  "
+    },
+    "HDIE": {
+        "song_name": "How Did It End?",
+        "mentions_in_year": 0,
+        "album": "The Tortured Poets Department: The Anthology"
+    },
+    "HYGtG": {
+        "song_name": "How You Get the Girl",
+        "mentions_in_year": 0,
+        "album": "1989  "
+    },
+    "IAD": {
+        "song_name": "I Almost Do",
+        "mentions_in_year": 0,
+        "album": "Red  "
+    },
+    "IBYTAM": {
+        "song_name": "I Bet You Think About Me",
+        "mentions_in_year": 0,
+        "album": "Red "
+    },
+    "ICDIwaBH": {
+        "song_name": "I Can Do It with a Broken Heart",
+        "mentions_in_year": 0,
+        "album": "The Tortured Poets Department"
+    },
+    "ICSY": {
+        "song_name": "I Can See You",
+        "mentions_in_year": 0,
+        "album": "Speak Now "
+    },
+    "ICFHNRIC": {
+        "song_name": "I Can Fix Him (No Really I Can)",
+        "mentions_in_year": 0,
+        "album": "The Tortured Poets Department"
+    },
+    "IDSB": {
+        "song_name": "I Did Something Bad",
+        "mentions_in_year": 0,
+        "album": "Reputation"
+    },
+    "IDWLF": {
+        "song_name": "I Don't Wanna Live Forever",
+        "mentions_in_year": 0,
+        "album": "Fifty Shades Darker: Original Motion Picture Soundtrack"
+    },
+    "IFTYE": {
+        "song_name": "I Forgot That You Existed",
+        "mentions_in_year": 0,
+        "album": "Lover"
+    },
+    "IHIH": {
+        "song_name": "I Hate It Here",
+        "mentions_in_year": 0,
+        "album": "The Tortured Poets Department: The Anthology"
+    },
+    "IH": {
+        "song_name": "I Heart\u00a0?",
+        "mentions_in_year": 0,
+        "album": "Beautiful Eyes"
+    },
+    "ILiPW": {
+        "song_name": "I Look in People's Windows",
+        "mentions_in_year": 0,
+        "album": "The Tortured Poets Department: The Anthology"
+    },
+    "IKYWT": {
+        "song_name": "I Knew You Were Trouble",
+        "mentions_in_year": 0,
+        "album": "Red  "
+    },
+    "IKP": {
+        "song_name": "I Know Places",
+        "mentions_in_year": 0,
+        "album": "1989  "
+    },
+    "ITHK": {
+        "song_name": "I Think He Knows",
+        "mentions_in_year": 0,
+        "album": "Lover"
+    },
+    "IWYB": {
+        "song_name": "I Want You Back",
+        "mentions_in_year": 0,
+        "album": "Speak Now World Tour \u2013 Live"
+    },
+    "IWYW": {
+        "song_name": "I Wish You Would",
+        "mentions_in_year": 0,
+        "album": "1989  "
+    },
+    "ITWaM": {
+        "song_name": "If This Was a Movie",
+        "mentions_in_year": 0,
+        "album": "Speak Now (Deluxe)[e]"
+    },
+    "IA": {
+        "song_name": "Illicit Affairs",
+        "mentions_in_year": 0,
+        "album": "Folklore"
+    },
+    "IOMWIwY": {
+        "song_name": "I'm Only Me When I'm with You",
+        "mentions_in_year": 0,
+        "album": "Taylor Swift (Deluxe)"
+    },
+    "IS": {
+        "song_name": "Invisible String",
+        "mentions_in_year": 0,
+        "album": "Folklore"
+    },
+    "IION": {
+        "song_name": "Is It Over Now?",
+        "mentions_in_year": 0,
+        "album": "1989 "
+    },
+    "INtHaF": {
+        "song_name": "It's Nice to Have a Friend",
+        "mentions_in_year": 0,
+        "album": "Lover"
+    },
+    "ITtG": {
+        "song_name": "It's Time to Go",
+        "mentions_in_year": 0,
+        "album": "Evermore (Deluxe)"
+    },
+    "TJatQsv": {
+        "song_name": "The Joker and the Queen (single version)",
+        "mentions_in_year": 0,
+        "album": "= (Tour Edition)"
+    },
+    "JTF": {
+        "song_name": "Jump Then Fall",
+        "mentions_in_year": 0,
+        "album": "Fearless: Platinum Edition "
+    },
+    "Krv": {
+        "song_name": "Karma (remixed version)",
+        "mentions_in_year": 0,
+        "album": "Midnights"
+    },
+    "KoMH": {
+        "song_name": "King of My Heart",
+        "mentions_in_year": 0,
+        "album": "Reputation"
+    },
+    "LC": {
+        "song_name": "Last Christmas",
+        "mentions_in_year": 0,
+        "album": "The Taylor Swift Holiday Collection"
+    },
+    "TLGAD": {
+        "song_name": "The Last Great American Dynasty",
+        "mentions_in_year": 0,
+        "album": "Folklore"
+    },
+    "LK": {
+        "song_name": "Last Kiss",
+        "mentions_in_year": 0,
+        "album": "Speak Now  "
+    },
+    "TLT": {
+        "song_name": "The Last Time",
+        "mentions_in_year": 0,
+        "album": "Red  "
+    },
+    "LH": {
+        "song_name": "Lavender Haze",
+        "mentions_in_year": 0,
+        "album": "Midnights"
+    },
+    "LB": {
+        "song_name": "London Boy",
+        "mentions_in_year": 0,
+        "album": "Lover"
+    },
+    "LL": {
+        "song_name": "Long Live",
+        "mentions_in_year": 0,
+        "album": "Speak Now  "
+    },
+    "LLBv": {
+        "song_name": "Long Live (Brazilian version)",
+        "mentions_in_year": 0,
+        "album": "Speak Now World Tour \u2013 Live"
+    },
+    "LSS": {
+        "song_name": "Long Story Short",
+        "mentions_in_year": 0,
+        "album": "Evermore"
+    },
+    "LWYMMD": {
+        "song_name": "Look What You Made Me Do",
+        "mentions_in_year": 0,
+        "album": "Reputation"
+    },
+    "LS": {
+        "song_name": "Love Story",
+        "mentions_in_year": 0,
+        "album": "Fearless  "
+    },
+    "LR": {
+        "song_name": "Lover (Remix)",
+        "mentions_in_year": 0,
+        "album": "Non-album song"
+    },
+    "TLO": {
+        "song_name": "The Lucky One",
+        "mentions_in_year": 0,
+        "album": "Red  "
+    },
+    "MW": {
+        "song_name": "Mad Woman",
+        "mentions_in_year": 0,
+        "album": "Folklore"
+    },
+    "MSOMMM": {
+        "song_name": "Mary's Song (Oh My My My)",
+        "mentions_in_year": 0,
+        "album": "Taylor Swift"
+    },
+    "MiaB": {
+        "song_name": "Message in a Bottle",
+        "mentions_in_year": 0,
+        "album": "Red "
+    },
+    "MR": {
+        "song_name": "Midnight Rain",
+        "mentions_in_year": 0,
+        "album": "Midnights"
+    },
+    "MAtHP": {
+        "song_name": "Miss Americana & the Heartbreak Prince",
+        "mentions_in_year": 0,
+        "album": "Lover"
+    },
+    "TMIK": {
+        "song_name": "The Moment I Knew",
+        "mentions_in_year": 0,
+        "album": "Red (Deluxe) "
+    },
+    "MPF": {
+        "song_name": "Mr. Perfectly Fine",
+        "mentions_in_year": 0,
+        "album": "Fearless "
+    },
+    "MBOBHFT": {
+        "song_name": "My Boy Only Breaks His Favorite Toys",
+        "mentions_in_year": 0,
+        "album": "The Tortured Poets Department"
+    },
+    "MTR": {
+        "song_name": "My Tears Ricochet",
+        "mentions_in_year": 0,
+        "album": "Folklore"
+    },
+    "NGU": {
+        "song_name": "Never Grow Up",
+        "mentions_in_year": 0,
+        "album": "Speak Now  "
+    },
+    "NR": {
+        "song_name": "New Romantics",
+        "mentions_in_year": 0,
+        "album": "1989 (Deluxe) "
+    },
+    "NYD": {
+        "song_name": "New Year's Day",
+        "mentions_in_year": 0,
+        "album": "Reputation"
+    },
+    "NBNC": {
+        "song_name": "No Body, No Crime",
+        "mentions_in_year": 0,
+        "album": "Evermore"
+    },
+    "NN": {
+        "song_name": "Nothing New",
+        "mentions_in_year": 0,
+        "album": "Red "
+    },
+    "NTWDT": {
+        "song_name": "Now That We Don't Talk",
+        "mentions_in_year": 0,
+        "album": "1989 "
+    },
+    "OtY": {
+        "song_name": "Only the Young",
+        "mentions_in_year": 0,
+        "album": "Non-album song"
+    },
+    "TOSotD": {
+        "song_name": "The Other Side of the Door",
+        "mentions_in_year": 0,
+        "album": "Fearless: Platinum Edition "
+    },
+    "OS": {
+        "song_name": "Our Song",
+        "mentions_in_year": 0,
+        "album": "Taylor Swift"
+    },
+    "OotW": {
+        "song_name": "Out of the Woods",
+        "mentions_in_year": 0,
+        "album": "1989  "
+    },
+    "TO": {
+        "song_name": "The Outside",
+        "mentions_in_year": 0,
+        "album": "Taylor Swift"
+    },
+    "PR": {
+        "song_name": "Paper Rings",
+        "mentions_in_year": 0,
+        "album": "Lover"
+    },
+    "APGH": {
+        "song_name": "A Perfectly Good Heart",
+        "mentions_in_year": 0,
+        "album": "Taylor Swift (Deluxe)"
+    },
+    "PtB": {
+        "song_name": "Picture to Burn",
+        "mentions_in_year": 0,
+        "album": "Taylor Swift"
+    },
+    "APiTW": {
+        "song_name": "A Place in This World",
+        "mentions_in_year": 0,
+        "album": "Taylor Swift"
+    },
+    "TP": {
+        "song_name": "The Prophecy",
+        "mentions_in_year": 0,
+        "album": "The Tortured Poets Department: The Anthology"
+    },
+    "RfI": {
+        "song_name": "...Ready for It?",
+        "mentions_in_year": 0,
+        "album": "Reputation"
+    },
+    "RWYLM": {
+        "song_name": "Right Where You Left Me",
+        "mentions_in_year": 0,
+        "album": "Evermore (Deluxe)"
+    },
+    "SBT": {
+        "song_name": "Sad Beautiful Tragic",
+        "mentions_in_year": 0,
+        "album": "Red  "
+    },
+    "SS": {
+        "song_name": "Safe & Sound",
+        "mentions_in_year": 0,
+        "album": "The Hunger Games[g]"
+    },
+    "SDG": {
+        "song_name": "Say Don't Go",
+        "mentions_in_year": 0,
+        "album": "1989 "
+    },
+    "SIO": {
+        "song_name": "Shake It Off",
+        "mentions_in_year": 0,
+        "album": "1989  "
+    },
+    "SSN": {
+        "song_name": "Should've Said No",
+        "mentions_in_year": 0,
+        "album": "Taylor Swift"
+    },
+    "TSMWEL": {
+        "song_name": "The Smallest Man Who Ever Lived",
+        "mentions_in_year": 0,
+        "album": "The Tortured Poets Department"
+    },
+    "SotB": {
+        "song_name": "Snow on the Beach",
+        "mentions_in_year": 0,
+        "album": "Midnights"
+    },
+    "SHS": {
+        "song_name": "So High School",
+        "mentions_in_year": 0,
+        "album": "The Tortured Poets Department: The Anthology"
+    },
+    "SIG": {
+        "song_name": "So It Goes...",
+        "mentions_in_year": 0,
+        "album": "Reputation"
+    },
+    "SLL": {
+        "song_name": "So Long, London",
+        "mentions_in_year": 0,
+        "album": "The Tortured Poets Department"
+    },
+    "SYGB": {
+        "song_name": "Soon You'll Get Better",
+        "mentions_in_year": 0,
+        "album": "Lover"
+    },
+    "SF": {
+        "song_name": "Sparks Fly",
+        "mentions_in_year": 0,
+        "album": "Speak Now  "
+    },
+    "SoG": {
+        "song_name": "State of Grace",
+        "mentions_in_year": 0,
+        "album": "Red  "
+    },
+    "SSS": {
+        "song_name": "Stay Stay Stay",
+        "mentions_in_year": 0,
+        "album": "Red  "
+    },
+    "TSoU": {
+        "song_name": "The Story of Us",
+        "mentions_in_year": 0,
+        "album": "Speak Now  "
+    },
+    "SL": {
+        "song_name": "Suburban Legends",
+        "mentions_in_year": 0,
+        "album": "1989 "
+    },
+    "StF": {
+        "song_name": "Sweeter than Fiction",
+        "mentions_in_year": 0,
+        "album": "One Chance    (Tangerine Edition)"
+    },
+    "ToMG": {
+        "song_name": "Teardrops on My Guitar",
+        "mentions_in_year": 0,
+        "album": "Taylor Swift"
+    },
+    "TMW": {
+        "song_name": "Tell Me Why",
+        "mentions_in_year": 0,
+        "album": "Fearless  "
+    },
+    "TYA": {
+        "song_name": "Thank You Aimee",
+        "mentions_in_year": 0,
+        "album": "The Tortured Poets Department: The Anthology"
+    },
+    "TW": {
+        "song_name": "That's When",
+        "mentions_in_year": 0,
+        "album": "Fearless "
+    },
+    "TIMT": {
+        "song_name": "This Is Me Trying",
+        "mentions_in_year": 0,
+        "album": "Folklore"
+    },
+    "TIWYCF": {
+        "song_name": "This Is What You Came For",
+        "mentions_in_year": 0,
+        "album": "Non-album song"
+    },
+    "TIWWCHNT": {
+        "song_name": "This Is Why We Can't Have Nice Things",
+        "mentions_in_year": 0,
+        "album": "Reputation"
+    },
+    "TTwaS": {
+        "song_name": "Tied Together with a Smile",
+        "mentions_in_year": 0,
+        "album": "Taylor Swift"
+    },
+    "TtDS": {
+        "song_name": "'Tis the Damn Season",
+        "mentions_in_year": 0,
+        "album": "Evermore"
+    },
+    "TWaF": {
+        "song_name": "Today Was a Fairytale",
+        "mentions_in_year": 0,
+        "album": "Valentine's Day  "
+    },
+    "TI": {
+        "song_name": "Tolerate It",
+        "mentions_in_year": 0,
+        "album": "Evermore"
+    },
+    "TTPD": {
+        "song_name": "The Tortured Poets Department",
+        "mentions_in_year": 0,
+        "album": "The Tortured Poets Department"
+    },
+    "TIBTO": {
+        "song_name": "Two Is Better Than One",
+        "mentions_in_year": 0,
+        "album": "Love Drunk"
+    },
+    "TVFN": {
+        "song_name": "The Very First Night",
+        "mentions_in_year": 0,
+        "album": "Red "
+    },
+    "VS": {
+        "song_name": "Vigilante Shit",
+        "mentions_in_year": 0,
+        "album": "Midnights"
+    },
+    "TWILY": {
+        "song_name": "The Way I Loved You",
+        "mentions_in_year": 0,
+        "album": "Fearless  "
+    },
+    "WANEGBT": {
+        "song_name": "We Are Never Ever Getting Back Together",
+        "mentions_in_year": 0,
+        "album": "Red  "
+    },
+    "WtNY": {
+        "song_name": "Welcome to New York",
+        "mentions_in_year": 0,
+        "album": "1989  "
+    },
+    "WWH": {
+        "song_name": "We Were Happy",
+        "mentions_in_year": 0,
+        "album": "Fearless "
+    },
+    "WEFiL": {
+        "song_name": "When Emma Falls in Love",
+        "mentions_in_year": 0,
+        "album": "Speak Now "
+    },
+    "WC": {
+        "song_name": "White Christmas",
+        "mentions_in_year": 0,
+        "album": "The Taylor Swift Holiday Collection"
+    },
+    "WH": {
+        "song_name": "White Horse",
+        "mentions_in_year": 0,
+        "album": "Fearless  "
+    },
+    "WAoLOM": {
+        "song_name": "Who's Afraid of Little Old Me?",
+        "mentions_in_year": 0,
+        "album": "The Tortured Poets Department"
+    },
+    "WCS": {
+        "song_name": "Would've, Could've, Should've",
+        "mentions_in_year": 0,
+        "album": "Midnights (3am Edition)"
+    },
+    "YAOM": {
+        "song_name": "You All Over Me",
+        "mentions_in_year": 0,
+        "album": "Fearless "
+    },
+    "YAiL": {
+        "song_name": "You Are in Love",
+        "mentions_in_year": 0,
+        "album": "1989 (Deluxe) "
+    },
+    "YBwM": {
+        "song_name": "You Belong with Me",
+        "mentions_in_year": 0,
+        "album": "Fearless  "
+    },
+    "YAFYWBH": {
+        "song_name": "You'll Always Find Your Way Back Home",
+        "mentions_in_year": 0,
+        "album": "Hannah Montana: The Movie"
+    },
+    "YNtCD": {
+        "song_name": "You Need to Calm Down",
+        "mentions_in_year": 0,
+        "album": "Lover"
+    },
+    "YLM": {
+        "song_name": "You're Losing Me",
+        "mentions_in_year": 0,
+        "album": "Midnights (The Late Night Edition)"
+    },
+    "YNS": {
+        "song_name": "You're Not Sorry",
+        "mentions_in_year": 0,
+        "album": "Fearless  "
+    },
+    "YoYOK": {
+        "song_name": "You're on Your Own, Kid",
+        "mentions_in_year": 0,
+        "album": "Midnights"
+    }
+}

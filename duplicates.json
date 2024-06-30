@@ -1,0 +1,106 @@
+{
+    "TA": [
+        {
+            "song_name": "The Albatross",
+            "mentions_in_year": 0,
+            "album": "The Tortured Poets Department: The Anthology"
+        },
+        "The Alchemy",
+        "The Alcott",
+        "The Archer"
+    ],
+    "TBD": [
+        {
+            "song_name": "The Best Day",
+            "mentions_in_year": 0,
+            "album": "Fearless and Fearless (Taylor's Version)"
+        },
+        "The Black Dog"
+    ],
+    "CS": [
+        {
+            "song_name": "Cornelia Street",
+            "mentions_in_year": 0,
+            "album": "Lover"
+        },
+        "Cruel Summer"
+    ],
+    "TM": [
+        {
+            "song_name": "The Man",
+            "mentions_in_year": 0,
+            "album": "Lover"
+        },
+        "The Manuscript",
+        "Tim McGraw",
+        "Tell Me"
+    ],
+    "SN": [
+        {
+            "song_name": "Silent Night",
+            "mentions_in_year": 0,
+            "album": "The Taylor Swift Holiday Collection"
+        },
+        "Speak Now",
+        "Sweet Nothing"
+    ],
+    "SB": [
+        {
+            "song_name": "Santa Baby",
+            "mentions_in_year": 0,
+            "album": "The Taylor Swift Holiday Collection"
+        },
+        "Stay Beautiful",
+        "Stupid Boy"
+    ],
+    "TL": [
+        {
+            "song_name": "The Lakes",
+            "mentions_in_year": 0,
+            "album": "Folklore (Deluxe)"
+        },
+        "This Love",
+        "That's Life"
+    ],
+    "BB": [
+        {
+            "song_name": "Bad Blood",
+            "mentions_in_year": 0,
+            "album": "1989 and 1989 (Taylor's Version)"
+        },
+        "Baby Blue"
+    ],
+    "BM": [
+        {
+            "song_name": "Better Man",
+            "mentions_in_year": 0,
+            "album": "The Breaker[c]"
+        },
+        "Bother Me"
+    ],
+    "GS": [
+        {
+            "song_name": "Gail's Song",
+            "mentions_in_year": 0,
+            "album": "[81]"
+        },
+        "Go Slow"
+    ],
+    "TB": [
+        {
+            "song_name": "The Bolter",
+            "mentions_in_year": 0,
+            "album": "The Tortured Poets Department: The Anthology"
+        },
+        "Thirteen Blocks",
+        "Too Beautiful"
+    ],
+    "WD": [
+        {
+            "song_name": "Wildest Dreams",
+            "mentions_in_year": 0,
+            "album": "1989 and 1989 (Taylor's Version)"
+        },
+        "Welcome Distraction"
+    ]
+}
